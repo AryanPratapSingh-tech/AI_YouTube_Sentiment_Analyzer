@@ -1,8 +1,8 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'AI_YouTube_Sentiment_Analyzer',
-    version= '0.0.0',
+    name = "sentiment",
+    version= "0.1",
     author= 'Aryan Pratap Singh',
     author_email= 'aryan7800singhpc@gmail.com',
     packages= find_packages(),
